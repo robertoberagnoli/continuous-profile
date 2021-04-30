@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{A195C7D5-8068-5C59-92D3-FFD6C362BB18}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageVisualizer.cs">
+    <Files>
+      <File FileName="../esempio_deserializzazione.cs" Line="1" Column="1" />
+      <File FileName="../esempio_deserializzazione_snippet.cs" Line="25" Column="49" />
+      <File FileName="Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageVisualizer.cs" Line="152" Column="163" />
+      <File FileName="Assets/GoogleARCore/Examples/AugmentedImage/Scripts/AugmentedImageExampleController.cs" Line="60" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
